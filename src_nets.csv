@@ -1,0 +1,19 @@
+network,description
+121.188.208.0/24,Building 121 Data Center
+121.188.209.0/24,Building 121 Data Center
+121.188.173.0/24,Building 155 Data Center
+121.189.216.0/24,Building 308 Data Center
+121.188.123.0/24,Building 582 Data Center
+128.152.225.0/24,CR 106 J9 (Blade Workstations) Alliance Domain
+128.151.226.0/24,CR 121 Alliance Network (Alliance JR / DMZ2) VLAN826
+132.128.12.0/24,DE - PDM Systems
+121.198.122.0/24,DFARS projects IP space
+131.198.138.0/23,Data Center
+151.198.140.0/23,Data Center
+141.199.168.0/22,Data Chambers - Winston Salem Data Center
+151.199.164.0/22,Data Chambers - Winston Salem Data Center
+161.199.166.0/24,Data Chambers Citrix Fram
+141.199.167.0/24,Data Chambers Citrix Fram
+141.199.108.0/24,Data Chambers Data Center
+131.149.109.0/24,Data Chambers Data Center
+151.159.110.0/24,Data Chambers Data Center
